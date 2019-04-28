@@ -9,7 +9,7 @@ Envirment Step ：
  
 Project Step:
 
- 1. run eureka-server  EurekaServerApplication ,and chenck out http://localhost:8761
+ 1. run eureka-server  EurekaServerApplication ,and check out http://localhost:8761
  2. run gateway   --->WzdfGatewayApplication
  3. run provider  --->UserProviderApplication
  4. run consumer  --->UserConsumerApplication
